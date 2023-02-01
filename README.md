@@ -17,7 +17,7 @@
   <a href="https://instagram.com/plongtran239" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="plongtran239-instagram" />
   </a>
-  <a href="mailto:plongtran239.official@gmail.com" target="top">
+  <a href="mailto:plongtran239@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="plongtran239-email" />
   </a>
 </div>
