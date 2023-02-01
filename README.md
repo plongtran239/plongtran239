@@ -14,3 +14,5 @@ My name is Long Tran. I am a web developer.<br>
 <a href="https://github.com/plongtran239/todos_typescript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=todos_typescript&theme=onedark" />
 </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plongtran239)
