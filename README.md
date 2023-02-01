@@ -1,6 +1,16 @@
+<div align="center">
+    <a href="#" target="_blank">
+      <img src="./longtran.svg" width="600" alt="longtran" />
+    </a>
+</div>
+
+<br>
+
 <h2 align="center">👋 WELCOME TO MY PAGE 👋</h2>
 
 <p align="center">My name is Long Tran. I am a web developer.</p>
+
+<br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 
