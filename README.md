@@ -10,7 +10,7 @@ My name is Long Tran. I am a web developer.<br>
 
 ## 📦 My repos:
 <a href="https://github.com/plongtran239/shopee_clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=shopee_clone&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=shopee_clone&theme=onedark" />
 </a>
 
 <a href="https://github.com/plongtran239/todos_typescript">
