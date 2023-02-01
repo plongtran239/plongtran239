@@ -18,4 +18,4 @@ My name is Long Tran. I am a web developer.<br>
 </a>
 
 ## 💻 My programming languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plongtran239&layout=compact&langs_count=8&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plongtran239&layout=compact&langs_count=8&hide=)
