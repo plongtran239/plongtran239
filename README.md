@@ -14,7 +14,15 @@ My name is Long Tran. I am a web developer.<br>
 </a>
 
 <a href="https://github.com/plongtran239/todos_typescript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=todos_typescript&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=todos_typescript&theme=dracula" />
+</a>
+
+<a href="https://github.com/plongtran239/todos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=todos&theme=radical" />
+</a>
+
+<a href="https://github.com/plongtran239/IT008_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=IT008_Project&theme=gruvbox" />
 </a>
 
 ## 💻 My programming languages:
