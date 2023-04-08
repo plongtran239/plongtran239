@@ -88,7 +88,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=shopee_clone&theme=onedark" />
 </a>
 
-<a href="https://github.com/plongtran239/todos_typescript">
+<!-- <a href="https://github.com/plongtran239/todos_typescript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=todos_typescript&theme=dracula" />
 </a>
 
@@ -97,6 +97,6 @@
 </a>
 
 <a href="https://github.com/plongtran239/IT008_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=IT008_Project&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plongtran239&repo=IT008_Project&theme=gruvbox" /> -->
 </a>
 </div>
