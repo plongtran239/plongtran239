@@ -11,7 +11,7 @@
 <p align="center">My name is Long Tran. I am a web developer.</p>
 
 <div align="center">
-    <a href="https://app.daily.dev/plongtran239"><img src="https://api.daily.dev/devcards/8453fdc8168a402c8175da596c8bc05d.png?r=ocl" width="400" alt="Long Tran's Dev Card"/></a>
+    <a href="https://app.daily.dev/plongtran239"><img src="https://api.daily.dev/devcards/v2/CuIdJa9FK4zZOqlNn50pQ.png?type=wide&r=f3z" width="652" alt="Long Tran's Dev Card"/></a>
 </div>
 
 <br>
