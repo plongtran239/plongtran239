@@ -10,11 +10,13 @@
 
 <h2 align="center">👋 WELCOME TO MY PAGE 👋</h2>
 
-<p align="center">My name is Long Tran. I am a web developer.</p>
+<p align="center">My name is Long Tran. I am a Software Engineer.</p>
 
+<!--
 <div align="center">
     <a href="https://app.daily.dev/plongtran239"><img src="https://api.daily.dev/devcards/v2/CuIdJa9FK4zZOqlNn50pQ.png?type=wide&r=f3z" width="652" alt="Long Tran's Dev Card"/></a>
 </div>
+-->
 
 <br>
 
